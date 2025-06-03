@@ -33,7 +33,7 @@ A powerful and intuitive 2D grid editor built with PyQt6, designed for creating 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone "https://github.com/AEBTP-club-tech/GUI-Grid-editor-py.git"
 ```
 
 2. Install the required dependencies:
@@ -86,8 +86,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Your chosen license]
+NOPE
 
 ## Contact
 
-[Your contact information] 
+aebtp2025@gmail.com
+tsaralohachristinot@gmail.com (+261 34 30 524 02) 
